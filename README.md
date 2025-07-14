@@ -68,11 +68,10 @@
 ---
 
 ### 🧠 Projects that Reflect Me
-> *(Add actual project links & descriptions if you'd like)*
 
 - 🕵️ **AI-Powered Human Detection in Disaster Zones** – Using Thermal Imaging & YOLO  
-- 🦿 **Bionic Arm using EMG Signals** – Real-time signal processing to control 3D-printed robotic arms  
-- 🕹️ **Gesture-Based Game Controller** – Play games like Subway Surfers using your body posture  
+- 🕹️ **Gesture-Based Game Controller** – Play games like Subway Surfers using your body posture
+- 🦿 **Brown plant Hopper Detection** – Real-time detection of BPH using tensorflow 
 
 ---
 
