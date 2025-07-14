@@ -1,5 +1,5 @@
 <h1 align="center">🤖 Hi, I'm Bhagyalakshmy Saburaj 👋</h1>
-<h3 align="center">AI & Data Science Engineer | Full Stack Developer | ML Researcher | Tech Futurist</h3>
+<h3 align="center">AI & Data Science Engineer | Full Stack Developer | ML Researcher </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI-Enthusiast-FF4081?style=for-the-badge&logo=brainly&logoColor=white" />
@@ -17,7 +17,6 @@
 - 🎓 **B.Tech in Artificial Intelligence & Data Science**, Jyothi Engineering College  
 - 🔭 Exploring the crossroads of **AI, Robotics**, and **Scalable Systems**  
 - 🌐 Passionate about building **impact-driven products** using AI, Full Stack tools & emerging tech  
-- 🧠 Currently diving deep into **Model Optimization**, **Distributed Systems**, and **MLOps**  
 - 💡 Believer in *tech for good*, and a future where machines assist humanity, not replace it  
 
 ---
@@ -61,8 +60,8 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhagya0529&show_icons=true&theme=react&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagya0529&layout=compact&theme=react&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhagya0529&show_icons=true&theme=react&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagya0529&layout=compact&theme=react&hide_border=true" height="180" />
 </p>
 
 ---
